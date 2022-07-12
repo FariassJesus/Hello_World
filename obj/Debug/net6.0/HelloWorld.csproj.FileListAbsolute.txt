@@ -1,0 +1,15 @@
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+E:\je-fa\Documents\Bootcamp_Gen\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
